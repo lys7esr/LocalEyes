@@ -1,4 +1,4 @@
-# Localeeys
+# LocalEyes
 
 A modern web application focused on connecting users with local experiences and services through a clean and interactive interface.
 
